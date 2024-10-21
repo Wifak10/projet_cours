@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: #35424a;
+    background: #65b6e9;
     color: #ffffff;
     padding: 20px 0;
     text-align: center;
@@ -29,4 +29,8 @@ footer {
     padding: 10px 0;
     background: #35424a;
     color: #ffffff;
+}
+.LaVieEstBelle{
+    background-color: rgb(240, 236, 6);
+    color: white;
 }
